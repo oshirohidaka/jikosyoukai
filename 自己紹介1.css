@@ -1,0 +1,20 @@
+.text {
+    text-align:center;   
+}
+
+h1 {  
+    height: 50px;
+    text-align:  center; 
+    border: solid 1px black;/*線*/
+    background-color: aquamarine;
+}
+
+body{
+    background-image: url(サウナ3.jpg);
+    background-size: cover;
+}
+
+.test {
+    text-decoration:underline;
+    font-size: 150%;          /* 文字サイズ */
+  }

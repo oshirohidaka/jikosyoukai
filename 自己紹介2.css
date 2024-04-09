@@ -1,0 +1,21 @@
+.text {
+    text-align:center;   
+}
+
+h1 {  
+    height: 50px;
+    text-align:  center; 
+    border: solid 1px black;/*線*/
+    background-color: aquamarine;
+}
+
+.test {
+    text-decoration:underline;
+    font-size: 90%;          /* 文字サイズ */
+  }
+
+.pic{
+    width: 500px;
+    height: 400px;
+}
+

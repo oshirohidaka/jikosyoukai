@@ -1,0 +1,27 @@
+.text {
+    text-align:center;   
+}
+
+h1 {  
+    height: 50px;
+    text-align:  center; 
+    border: solid 1px black;/*線*/
+    background-color: aquamarine;
+}
+
+h2{
+    
+        text-decoration:underline;
+        font-size: 200%;          /* 文字サイズ */
+      
+}
+
+.pic{
+    width: 500px;
+    height: 400px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap; 
+  }

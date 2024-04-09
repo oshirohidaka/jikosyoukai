@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  
+    <meta charset="UTF-8" />
+    <title>質問・感想フォーム</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+
+<body>
+    <h1>質問・感想フォーム</h1>
+  <div>
+    <form action="form.html">
+        <div class="box2">
+            
+        
+      <div class="form-group">
+        <label for="name">氏名</label>
+       <p> <input type="text" id="name" name="name"></p>
+      </div>
+      <div class="form-group">
+        <p>性別</p>
+        <label><span class="box"><input type="radio" name="sei" value="male">男</span></label>
+        <label><span class="box1"><input type="radio" name="sei" value="female">女</span></label>
+      </div>
+      
+      <div class="age">
+        <p>年齢<p>
+        <p> <select id="ages" name="age"></p>
+          <option value="1" selected>10代</option>
+          <option value="2">20代</option>
+          <option value="3">30代</option>
+        </select>
+      </div>
+      <div class="food">
+        <label>今後見ていたいレシピ</label>
+        <p><label>
+          <span class="food1"><input type="checkbox" name="cook" value="jpfood" checked>和食</span>
+        </label>
+        <label>
+          <span class="food2"><input type="checkbox" name="cook" value="chfood">中華</span>
+        </label>
+        <label>
+          <span class="food3"> <input type="checkbox" name="cook" value="Western food">洋食</span>
+          </label>
+          <label>
+            <span class="food4"><input type="checkbox" name="cook" value="italian food">イタリアン</span>
+          </label>
+          <label>
+            <span class="food5"> <input type="checkbox" name="cook" value="suite">スイーツ</span>
+          </label>
+          <label>
+            <span class="food6"><input type="checkbox" name="cook" value="othere">その他</span>
+          </label>
+        </p>
+      </div>
+      <div class="form-group">
+        <label for="message">自由コメント欄</label>
+        <p><textarea id="message" name="message">自由に意見を記述してください</textarea></p>
+      </div>
+      <button type="submit">送信</button>
+      <button type="submit">取り消し</button>
+    </form>
+    </div>
+  </div>
+</body>
+
+
+
+    

@@ -1,0 +1,125 @@
+
+.box2 {
+    padding: 5em ;
+    padding-bottom: 30px;
+    font-weight: bold;
+    width: 800px;
+    height: 700px;
+    text-align:  center;   
+    
+    background-color:white;
+    border: solid 3px lightpink;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom:15px;
+}
+
+
+body{
+    background-image: url(bg_Argyle.jpg);
+    text-align:center;
+}
+
+#message{
+    width: 400px;
+    height: 75px;
+}
+
+
+
+ .box {
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    accent-color: black;
+
+ }
+
+ .box1{
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+    accent-color: black;
+
+
+ }
+
+.food {
+    accent-color: black;
+}
+ .food1{
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+ }
+ .food2{
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+
+ }
+ .food3{
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+
+ }
+ .food4{
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+
+ }
+ .food5{
+    padding: 10px ;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    text-align:  center;   
+    border: solid 1px black;/*線*/
+    border-radius: 10px;/*角の丸み*/
+
+ }
+ .food6{
+        padding: 10px ;
+        padding-bottom: 10px;
+        font-weight: bold;
+        width: 50px;
+        height: 50px;
+        text-align:  center;   
+        border: solid 1px black;/*線*/
+        border-radius: 10px;/*角の丸み*/
+    
+     }

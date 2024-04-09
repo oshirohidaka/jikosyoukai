@@ -1,0 +1,29 @@
+.text {
+    text-align:center;   
+}
+
+body{
+    background-image: url(bg_Argyle.jpg);
+}
+
+table {
+    border-color:red;
+    background-color:lightyellow;
+}
+
+
+.img {
+    border:10px double red;
+}
+
+
+.sample{
+    font-weight:bolder;
+  }
+
+
+ .flex-container {
+    display: flex;
+  /* flex-wrap: wrap; */
+  }
+
